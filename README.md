@@ -10,3 +10,7 @@ TRAIN.csv (contains training data)
 TEST.csv (test data for prediction)
 sample_submission.csv (an example of submission file)
 The TRAIN.csv has 31 attributes, 30 training and 1 target attribute (Class). "0" represents non-fraudulent transactions and "1" represents fraudulent transactions. Attributes V1...V28 are anonymous so that the internal details may be kept hidden.
+
+
+#Learn ML Insurance Prediction AI Challenge
+The aim of this challenge is to predict whether the customer will be interested in buying insurance.
